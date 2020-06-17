@@ -1,8 +1,3 @@
-/*
-	* Knives 1.2	
-	* Плагин разработан проектом DEV.WCRYE.RU
-	* На нашем форуме вы найдете множество новшеств.
-*/
 
 #include < amxmodx >
 #include < amxmisc >
